@@ -10,9 +10,11 @@ Além disso, proporcionar um ambiente inovador e criativo para que os alunos pos
 Prof. Me .Allisson Jorge Silva Almeida
 
 # Alunos
-Daniel Ferreira Mendes
-Romário Silva Cardoso
-Vinícius Sousa de Oliveira
-Sandell Levy da Silva Costa
 
+<lu>
+<li> Daniel Ferreira Mendes</li>
+<li>Romário Silva Cardoso</li>
+<li>Vinícius Sousa de Oliveira</li>
+<li>Sandell Levy da Silva Costa</li>
+</lu>
 
